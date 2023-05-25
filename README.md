@@ -1,4 +1,4 @@
-# Docker Stack Develop
+# Docker Stack Local Ayphu_rrhh
 
 The following repository is to be used in a development environment for frontend / backend environments and exclusively for AyPhu.
 
@@ -67,7 +67,7 @@ docker-compose up --build
 </pre>
 
 ```bash
-api/strapi # backend / api
+api/django # backend / api
 ```
 
 ```bash
