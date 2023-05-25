@@ -1,0 +1,6 @@
+.env
+api/postgres
+!api/postgres/.gitkeep
+api/django
+app/next
+.vscode/
